@@ -1,0 +1,7 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.extension filter=lfs diff=lfs merge=lfs -text
+*.pack filter=lfs diff=lfs merge=lfs -text
+Frontend/calendar/node_modules/.cache/default-development/17.pack[[:space:]](143.65[[:space:]]MB) filter=lfs diff=lfs merge=lfs -text
+Frontend/calendar/node_modules/.cache/default-development/44.pack[[:space:]](105.58[[:space:]]MB) filter=lfs diff=lfs merge=lfs -text
+Frontend/calendar/node_modules/.cache/default-development/44.pack filter=lfs diff=lfs merge=lfs -text
+Frontend/calendar/node_modules/.cache/default-development/17.pack filter=lfs diff=lfs merge=lfs -text
