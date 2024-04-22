@@ -1,0 +1,24 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navbar-child {
+  position: sticky;
+  width: 100%;
+  z-index: 1000; 
+  top: 50px;
+}
+
+  .centered-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+
+  
+  
